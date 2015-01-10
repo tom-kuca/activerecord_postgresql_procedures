@@ -1,0 +1,3099 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"configuration"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"expectd",
+				"expected_ranks"
+			],
+			[
+				"tar",
+				"target_path"
+			],
+			[
+				"sou",
+				"source_path"
+			],
+			[
+				"clone",
+				"clone_path"
+			],
+			[
+				"repo",
+				"repo_path"
+			],
+			[
+				"relea",
+				"release_path"
+			],
+			[
+				"up",
+				"updating"
+			],
+			[
+				"xxx",
+				"XXX"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"tra",
+				"transaction"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"header",
+				"header_value"
+			],
+			[
+				"or",
+				"organizations"
+			],
+			[
+				"link_to",
+				"link_to_user"
+			],
+			[
+				"max",
+				"max_tuple"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"co",
+				"common_membership"
+			],
+			[
+				"absolute",
+				"absolute_hint_teams"
+			],
+			[
+				"loca",
+				"location_paper"
+			],
+			[
+				"location",
+				"location_papers"
+			],
+			[
+				"inte",
+				"interpretation_id"
+			],
+			[
+				"inter",
+				"interpretations"
+			],
+			[
+				"puzzle",
+				"puzzle_code"
+			],
+			[
+				"abs",
+				"absolute_hints"
+			],
+			[
+				"ar",
+				"arrival"
+			],
+			[
+				"CO",
+				"CommonMembershipSerializer"
+			],
+			[
+				"Com",
+				"CommonMembership"
+			],
+			[
+				"col",
+				"col_sep"
+			],
+			[
+				"expe",
+				"expected_rank"
+			],
+			[
+				"updated",
+				"updated_at"
+			],
+			[
+				"pat",
+				"pattern_game"
+			],
+			[
+				"pho",
+				"phone_hint"
+			],
+			[
+				"abso",
+				"absolute_hint"
+			],
+			[
+				"Inte",
+				"InterpratationSolution"
+			],
+			[
+				"member",
+				"membership"
+			],
+			[
+				"longi",
+				"longitude_distance"
+			],
+			[
+				"crop_h",
+				"crop_hborder"
+			],
+			[
+				"cro",
+				"crop_vborder"
+			],
+			[
+				"latitu",
+				"latitude_ratio"
+			],
+			[
+				"last",
+				"last_action_by_puzzle_position"
+			],
+			[
+				"rea",
+				"reached_at"
+			],
+			[
+				"la",
+				"last_action"
+			],
+			[
+				"phone_",
+				"phone_hint_teams"
+			],
+			[
+				"puz",
+				"puzzle_solutions"
+			],
+			[
+				"secondar",
+				"secondary_channels"
+			],
+			[
+				"pre",
+				"prev_papers"
+			],
+			[
+				"cre",
+				"create_path_to_paper"
+			],
+			[
+				"allow",
+				"allow_skip"
+			],
+			[
+				"B",
+				"Berušky"
+			],
+			[
+				"od",
+				"obdrželi"
+			],
+			[
+				"šifry",
+				"šifričky"
+			],
+			[
+				"ši",
+				"šifřiček"
+			],
+			[
+				"ře",
+				"řešením"
+			],
+			[
+				"stanovi",
+				"stanoviště"
+			],
+			[
+				"main",
+				"main_solutions"
+			],
+			[
+				"solu",
+				"solution_teams"
+			],
+			[
+				"valid",
+				"valid_attributes"
+			],
+			[
+				"at",
+				"attachment"
+			],
+			[
+				"cu",
+				"current_game_series"
+			],
+			[
+				"di",
+				"discussion"
+			],
+			[
+				"ca",
+				"canonical_name"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"team",
+				"teams_without_qr_token"
+			],
+			[
+				"teams_w",
+				"teams_without_qr_token"
+			],
+			[
+				"user_by",
+				"user_by_nickname"
+			],
+			[
+				"orig",
+				"orig_cache_path"
+			],
+			[
+				"organi",
+				"organizations"
+			],
+			[
+				"interpre",
+				"interpretation"
+			],
+			[
+				"rac",
+				"reached_puzzles"
+			],
+			[
+				"solution",
+				"solutions_teams"
+			],
+			[
+				"It",
+				"interpretationSolution"
+			],
+			[
+				"th",
+				"through"
+			],
+			[
+				"locat",
+				"location_paper_game_id"
+			],
+			[
+				"in",
+				"interpretation_id"
+			],
+			[
+				"Old",
+				"Oldřich"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"oth",
+				"other_expected_ranks"
+			],
+			[
+				"true",
+				"trueskill"
+			],
+			[
+				"show",
+				"show_chart"
+			],
+			[
+				"stat",
+				"stats-chart"
+			],
+			[
+				"sim",
+				"simulation"
+			],
+			[
+				"curre",
+				"current_game"
+			],
+			[
+				"reco",
+				"recordArray"
+			],
+			[
+				"_fin",
+				"_findQuery"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"par",
+				"parse_finished_at"
+			],
+			[
+				"puzzle_",
+				"puzzle_solutions"
+			],
+			[
+				"Identi",
+				"identification"
+			],
+			[
+				"curr",
+				"current_game"
+			],
+			[
+				"stu",
+				"stubbed_current_user"
+			],
+			[
+				"puzz",
+				"puzzle_id"
+			],
+			[
+				"paper",
+				"paper_puzzles"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"secon",
+				"second_hash_solution"
+			],
+			[
+				"paer",
+				"parse_description"
+			],
+			[
+				"ci",
+				"cipher_name"
+			],
+			[
+				"orga",
+				"organizations"
+			],
+			[
+				"friend",
+				"friend_membership"
+			],
+			[
+				"recei",
+				"received_message"
+			],
+			[
+				"split_four",
+				"split_fourth_lp"
+			],
+			[
+				"split_thi",
+				"split_third_lp"
+			],
+			[
+				"split_sec",
+				"split_second_lp_a"
+			],
+			[
+				"split_fi",
+				"split_first_cipher_a"
+			],
+			[
+				"des",
+				"dest_latitude"
+			],
+			[
+				"dest",
+				"dest_longitude"
+			],
+			[
+				"sr",
+				"src_latitude"
+			],
+			[
+				"src",
+				"src_longitude"
+			],
+			[
+				"loc",
+				"locations"
+			],
+			[
+				"curren",
+				"current_user"
+			],
+			[
+				"STATUS_REA",
+				"STATUS_REACHED_AT_NOT_AVAILABLE"
+			],
+			[
+				"ER",
+				"ECONNREFUSED"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"LOCA",
+				"location_papers"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"trans",
+				"transformace_es"
+			],
+			[
+				"emental",
+				"emental_kv"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/models/proc_model.rb",
+			"settings":
+			{
+				"buffer_size": 41,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/models/table_model.rb",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/config.example.yml",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/config.rb",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/schema.rb",
+			"settings":
+			{
+				"buffer_size": 1040,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/config.yml",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 2748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 0 files for \"arpp\"\n\n0 matches across 0 files\n",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "lib/activerecord_postgresql_procedures/postgresql_adapter.rb",
+			"settings":
+			{
+				"buffer_size": 1696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/activerecord_postgresql_procedures/schema_statements.rb",
+			"settings":
+			{
+				"buffer_size": 3042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "SELECT unnest(proargnames) FROM pg_proc WHERE proname = 'books' LIMIT 1",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix",
+				"name": "SELECT unnest(proargnames) FROM pg_proc WHERE pron"
+			}
+		},
+		{
+			"file": "activerecord_postgresql_procedures.gemspec",
+			"settings":
+			{
+				"buffer_size": 1124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.rdoc",
+			"settings":
+			{
+				"buffer_size": 578,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"closea",
+				"File: Close All"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"tid",
+				"Tidy Tabs"
+			],
+			[
+				"ti",
+				"Tidy Tabs"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"show",
+				"Git: Show Current File"
+			],
+			[
+				"tidy",
+				"Tidy Tabs"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"format",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tidi",
+				"Local History: Incremental Diff"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"syscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bau",
+				"BeautifyRuby"
+			],
+			[
+				"ba",
+				"BeautifyRuby"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"beu",
+				"BeautifyRuby"
+			],
+			[
+				"mmove",
+				"Origami: Move File to Pane Above"
+			],
+			[
+				"sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"open fil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"binuse",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"b",
+				"BeautifyRuby"
+			],
+			[
+				"lochi",
+				"Local History: Open"
+			],
+			[
+				"hi",
+				"Local History: Browse"
+			],
+			[
+				"bro",
+				"Local History: Browse"
+			],
+			[
+				"local",
+				"Local History: Incremental Diff"
+			],
+			[
+				"hist",
+				"Local History: Compare"
+			],
+			[
+				"histo",
+				"Local History: Open"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"lohi",
+				"Local History: Open"
+			],
+			[
+				"quik",
+				"Git: Quick Commit"
+			],
+			[
+				"partia",
+				"Rails Partial: Create Partial from Text"
+			],
+			[
+				"quc",
+				"Git: Quick Commit"
+			],
+			[
+				"be",
+				"BeautifyRuby"
+			],
+			[
+				"quk",
+				"Git: Quick Commit"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"sho",
+				"Git: Show Current File"
+			],
+			[
+				"gitsho",
+				"Git: Show Current File"
+			],
+			[
+				"his",
+				"Git: Commit history"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"parti",
+				"Rails Partial: Create Partial and Open"
+			],
+			[
+				"con",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"consp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"contosp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"syhtmlra",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"cons",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"syhaml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sysql",
+				"Set Syntax: SQL"
+			],
+			[
+				"formsq",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"form",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"formsql",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"syco",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ove",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"ovew",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"for",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"sh",
+				"Git: Show Current File"
+			],
+			[
+				"gitbla",
+				"Git: Blame"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"blam",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"over",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"ovre",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"cosrt",
+				"Coffee: Run Script"
+			],
+			[
+				"cort",
+				"Coffee: Run Cake Task"
+			],
+			[
+				"cnove",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dee",
+				"File: Delete"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"githis",
+				"Git: Commit history"
+			],
+			[
+				"githi",
+				"Git: Graph Current File"
+			],
+			[
+				"localhi",
+				"Local History: Open"
+			],
+			[
+				"moe",
+				"File: Move"
+			],
+			[
+				"sycof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"history",
+				"Local History: Browse"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				":wall",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"sycoff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"syha",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"clan",
+				"Snippet: class_from_name()"
+			],
+			[
+				"partial",
+				"Rails Partial: Create Partial and Open"
+			],
+			[
+				"ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"mv",
+				"File: Move"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"showcu",
+				"Git: Show Current File"
+			],
+			[
+				"renae",
+				"File: Rename"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"renam",
+				"File: Rename"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 568.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/connection_adapters_ext_spec.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/lib/activerecord_postgresql_procedures/connection_adapters_ext.rb",
+		"//code/classification/app/admin/exams.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/dummy/db/migrate/db/migrate/20141003210447_create_books.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/spec_helper.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/schema.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/lib/activerecord_postgresql_procedures.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/config/database.yml",
+		"/code/classification/app/admin/exams.rb",
+		"/home/tomas/ion/app/admin/exams.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/book.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/activerecord_postgresql_procedures.gemspec",
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/dummy/app/models/book.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/Guardfile",
+		"/home/tomas/code/activerecord_postgresql_procedures/Gemfile",
+		"/home/tomas/code/activerecord_postgresql_procedures/lib/activerecord_postgresql_procedures/version.rb",
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/dummy/app/models/.keep",
+		"/home/tomas/code/activerecord_postgresql_procedures/spec/foobar_spec.rb",
+		"/home/tomas/code/seslost/app/controllers/application_controller.rb",
+		"/home/tomas/code/seslost/config/initializers/logger.rb",
+		"/home/tomas/code/seslost/config/routes/games_routes.rb",
+		"/home/tomas/code/seslost/gems/wiki/app/views/wiki/pages/_content.html.erb",
+		"/home/tomas/code/seslost/gems/wiki/app/models/wiki/page.rb",
+		"/home/tomas/code/seslost/app/controllers/stats/pages_controller.rb",
+		"/home/tomas/code/seslost/config/environments/development.rb",
+		"/home/tomas/code/seslost/spec/features/games/users_spec.rb",
+		"/home/tomas/code/seslost/db/migrate/20131214021622_create_ladders.rb",
+		"/home/tomas/code/seslost/config/routes/stats_routes.rb",
+		"/home/tomas/code/seslost/app/serializers/stats/clan_serializer.rb",
+		"/home/tomas/code/seslost/app/models/user.rb",
+		"/home/tomas/code/seslost/app/models/membership.rb",
+		"/home/tomas/code/seslost/app/controllers/stats/trueskills_charts_controller.rb",
+		"/home/tomas/code/seslost/app/controllers/stats/ladders_controller.rb",
+		"/home/tomas/code/seslost/app/controllers/database/identification_sessions_controller.rb",
+		"/home/tomas/code/seslost/config/deploy.rb",
+		"/home/tomas/code/seslost/app/controllers/stats/expected_rankings_controller.rb",
+		"/home/tomas/code/seslost/Gemfile",
+		"/home/tomas/code/seslost/app/models/procedures/tupple.rb",
+		"/home/tomas/code/seslost/app/models/procedures/team_statistic.rb",
+		"/home/tomas/code/seslost/app/models/procedures/solution_statistic.rb",
+		"/home/tomas/code/seslost/app/models/procedures/ranking.rb",
+		"/home/tomas/code/seslost/app/models/procedures/puzzle_team.rb",
+		"/home/tomas/code/seslost/app/models/procedures/puzzle_statistics_by_position.rb",
+		"/home/tomas/code/seslost/app/models/procedures/puzzle_part_action.rb",
+		"/home/tomas/code/seslost/app/models/procedures/payments_statistic.rb",
+		"/home/tomas/code/seslost/app/models/procedures/part_action.rb",
+		"/home/tomas/code/seslost/app/models/procedures/num_teams_statistic.rb",
+		"/home/tomas/code/seslost/app/models/procedures/num_finished_teams_statistics.rb",
+		"/home/tomas/code/seslost/app/models/procedures/num_finished_teams_statistic.rb",
+		"/home/tomas/code/seslost/app/models/procedures/interaction_statistic.rb",
+		"/home/tomas/code/seslost/app/models/procedures/game_statistics.rb",
+		"/home/tomas/code/seslost/app/models/procedures/free_puzzle.rb",
+		"/home/tomas/code/seslost/app/models/procedures/expected_rank.rb",
+		"/home/tomas/code/seslost/app/models/procedures/action_by_puzzle_position.rb",
+		"/home/tomas/code/seslost/app/models/procedures/action.rb",
+		"/home/tomas/code/seslost/app/models/game.rb",
+		"/home/tomas/code/seslost/app/views/stats/rankings/_table.html.haml",
+		"/home/tomas/code/seslost/db/procedures/030-expected-ranks.sql",
+		"/home/tomas/code/seslost/app/inputs/time_input.rb",
+		"/home/tomas/code/seslost/app/inputs/date_input.rb",
+		"/home/tomas/code/seslost/spec/spec_helper.rb",
+		"/home/tomas/code/seslost/app/models/filters/sent_messages_filter.rb",
+		"/home/tomas/code/seslost/app/models/filters/received_messages_filter.rb",
+		"/home/tomas/code/seslost/app/models/filters/interactions_filter.rb",
+		"/home/tomas/code/seslost/app/models/filters/deliveries_filter.rb",
+		"/home/tomas/code/seslost/app/views/stats/expected_rankings/index.html.haml",
+		"/home/tomas/code/seslost/config/deploy/assets.rb",
+		"/home/tomas/code/seslost/config/deploy/maintenance.rb",
+		"/home/tomas/code/seslost/app/models/sender.rb",
+		"/home/tomas/code/seslost/.yardoc/checksums",
+		"/home/tomas/code/seslost/app/controllers/database/games_controller.rb",
+		"/home/tomas/code/seslost/db/procedures/013-interaction_statistics.sql",
+		"/home/tomas/code/seslost/db/procedures/018-undelivered-phone-hints.sql",
+		"/home/tomas/code/seslost/gems/authentication/app/models/authentication/identification.rb",
+		"/home/tomas/code/seslost/config/initializers/silent_schema_validations.rb",
+		"/home/tomas/code/seslost/app/models/team.rb",
+		"/home/tomas/code/seslost/app/assets/javascripts/games/seslost.js",
+		"/home/tomas/code/seslost/lib/tasks/parsers.rake",
+		"/home/tomas/code/seslost/app/assets/javascripts/games/po-trati.js",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/git.rake",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/deploy.rake",
+		"/home/tomas/code/seslost/gems/wiki/app/views/wiki/pages/show.html.erb",
+		"/home/tomas/code/seslost/app/views/games/organizers/index.html.erb",
+		"/home/tomas/code/seslost/seslost.sublime-workspace",
+		"/home/tomas/code/seslost/app/controllers/games/application_controller.rb",
+		"/home/tomas/code/seslost/gems/wiki/app/views/wiki/pages/new.html.erb",
+		"/home/tomas/code/seslost/gems/wiki/app/views/wiki/pages/edit.html.erb",
+		"/home/tomas/code/seslost/app/views/stats/ladder_descriptions/show.html.haml",
+		"/home/tomas/code/seslost/app/views/stats/games/index.html.haml",
+		"/home/tomas/code/seslost/db/procedures/019-interaction_statistics.sql",
+		"/home/tomas/code/seslost/db/views/013-expected-ranks.sql",
+		"/home/tomas/code/seslost/Capfile",
+		"/home/tomas/code/seslost/gems/authentication/app/views/authentication/identification_sessions/_form.html.haml",
+		"/home/tomas/code/seslost/app/views/smsinfo/received_messages/_form.html.erb",
+		"/home/tomas/code/seslost/app/views/error_pages/login_required.html.haml",
+		"/home/tomas/code/seslost/lib/rescue_from_common_exceptions.rb",
+		"/home/tomas/code/seslost/config/unicorn/production.rb",
+		"/home/tomas/code/seslost/config/environments/production.rb",
+		"/home/tomas/code/seslost/config/deploy/production.rb",
+		"/home/tomas/code/seslost/app/assets/stylesheets/database/_forms.css.sass",
+		"/home/tomas/code/seslost/lib/capistrano/strategy/github.rb",
+		"/home/tomas/code/seslost/config/puma.rb",
+		"/home/tomas/code/seslost/config/deploy/git.rb",
+		"/home/tomas/code/seslost/app/assets/stylesheets/database.css.sass",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/tasks/deploy.rake",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/tasks/console.rake",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/setup.rb",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/defaults.rb",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/tasks/install.rake",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/scm.rb",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/git.rb",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/tasks/git.rake",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/assets.rake",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/maintenance.rake",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/dsl/paths.rb",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/templates/deploy.rb.erb",
+		"/usr/lib/ruby/gems/2.1.0/gems/capistrano-3.2.1/lib/capistrano/configuration/server.rb",
+		"/home/tomas/code/seslost/lib/capistrano/my_git.rb",
+		"/home/tomas/code/seslost/lib/capistrano/strategy/git.rb",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/strategy/module Capistrano",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/strategy/git_style.rb",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/assets.rb",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/maintenance.rb",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/git.rakle",
+		"/home/tomas/code/seslost/lib/capistrano/tasks/git.rb",
+		"/home/tomas/code/seslost/spec/models/game_spec.rb",
+		"/home/tomas/code/seslost/spec/factories/users.rb",
+		"/home/tomas/code/seslost/gems/acts_as_markup/acts_as_markup.gemspec"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.rb",
+			"*.*",
+			"*.rb",
+			"",
+			"config/",
+			"config",
+			"*.rb",
+			"*.hbs",
+			"*.rb",
+			"",
+			"*.hbs",
+			"",
+			"/home/tomas/code/seslost/app/assets/javascripts/**/*.hbs",
+			"/home/tomas/code/seslost/app/assets/javascripts/",
+			"/home/tomas/code/seslost/app/assets/javascripts/database/",
+			"/home/tomas/code/seslost/config",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/config",
+			"/home/tomas/code/seslost/",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/app/",
+			"/home/tomas/code/seslost/app/controllers/",
+			"/home/tomas/code/seslost/app/controllers/smsinfo",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/config",
+			"/home/tomas/code/seslost/app/",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/app/helpers",
+			"/home/tomas/code/seslost/app/assets/javascripts",
+			"/home/tomas/code/seslost/app/assets/stylesheets",
+			"/home/tomas/code/seslost/lib/parsers",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/app/views",
+			"/home/tomas/code/seslost/app/serializers",
+			"/home/tomas/code/seslost/app/serializer",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/app/views",
+			"/home/tomas/code/seslost/db/migrate",
+			"/home/tomas/code/seslost/app/assets/javascripts/stats/visualization",
+			"/home/tomas/code/seslost/app/views/stats/",
+			"/home/tomas/code/seslost/app/controllers/smsinfo",
+			"/home/tomas/code/seslost/app/smsinfo",
+			"/home/tomas/code/seslost/lib/smsinfo",
+			"/home/tomas/code/seslost/lib/parsers",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/spec",
+			"/home/tomas/code/seslost/app/",
+			"/home/tomas/code/seslost/app/views",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/app/models",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/db/procedures",
+			"/home/tomas/code/seslost/db",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/app/",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/app/views/stats/",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/spec/controllers",
+			"/home/tomas/code/seslost/app/views/games",
+			"/home/tomas/code/seslost/app/views",
+			"/home/tomas/code/seslost/app/",
+			"/home/tomas/code/seslost/lib/smsinfo",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/spec/controllers",
+			"/home/tomas/code/seslost/app/views/",
+			"/home/tomas/code/seslost/",
+			"/home/tomas/code/seslost/spec",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/app/views",
+			"/home/tomas/code/seslost/db/migrate",
+			"/home/tomas/code/seslost/app/assets/javascripts/database",
+			"/home/tomas/code/seslost/app/assets/javascripts/stats/visualization/",
+			"/home/tomas/code/seslost/app/assets/javascripts/stats/visuzalization/",
+			"/home/tomas/code/seslost/app/assets/javascripts/visuzalization/",
+			"/home/tomas/code/seslost/lib/smsinfo",
+			"/home/tomas/code/seslost/app/assets/javascripts/",
+			"/home/tomas/code/seslost/app/assets/javascripts/visualisation/",
+			"/home/tomas/code/seslost/app/assets/javascripts/visualization/",
+			"/home/tomas/code/seslost/app/assets/javascripts/visualization",
+			"/home/tomas/code/seslost/app/assets/visualization",
+			"/home/tomas/code/seslost/config/locales",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/config/smsinfo",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/spec",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/spec",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/app/views/stats",
+			"/home/tomas/code/seslost/app/views/",
+			"/home/tomas/code/seslost/app/helpers",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/app/controllres",
+			"/home/tomas/code/seslost/app/views/smsinfo",
+			"/home/tomas/code/seslost/app/assets/stylesheets/smsinfo",
+			"/home/tomas/code/seslost/",
+			"/home/tomas/code/seslost/lib/",
+			"/home/tomas/code/seslost/lib",
+			"/home/tomas/code/seslost/spec",
+			"/home/tomas/code/seslost/app/models/",
+			"/home/tomas/code/seslost/app/assets/javascripts/stats",
+			"/home/tomas/code/seslost/app/assets/javascripts/",
+			"/home/tomas/code/seslost/app/assets/javascripts/visualization",
+			"/home/tomas/code/seslost/db/migrate",
+			"/home/tomas/code/seslost/app/",
+			"/home/tomas/code/seslost/app/controllers/",
+			"/home/tomas/code/seslost/app/controllers",
+			"/home/tomas/code/seslost/spec",
+			"/home/tomas/code/seslost/db/migrate",
+			"/home/tomas/code/db/migrate/*",
+			"/home/tomas/code/db/migrate/",
+			"/home/tomas/code/db/migrate",
+			"/home/tomas/code/seslost/spec",
+			"/home/tomas/code/seslost/",
+			"/home/tomas/code/seslost/app",
+			"/home/tomas/code/seslost/config",
+			"/home/tomas/code/seslost/app/",
+			"/home/tomas/code/seslost/app/views",
+			"/home/tomas/code/seslost/",
+			"/home/tomas/code/seslost/app/serializers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arpp",
+			"column_definitions",
+			"raise",
+			" ",
+			"end",
+			"oc",
+			"clan",
+			"user_id",
+			"friend",
+			"authlogi",
+			"statistiky",
+			"User:",
+			"%>",
+			"<%",
+			"Comple",
+			"pages",
+			":true",
+			"only_",
+			"true",
+			"authlog",
+			"columns_hash",
+			"Connection",
+			"Column",
+			"StatementCache",
+			"Relation",
+			"rankings",
+			"Tableless",
+			"ActiveRecord::Base",
+			"Tableless",
+			"ACtiveScaffold",
+			"AssociationScope",
+			"column",
+			"Connection",
+			"AssociationScope",
+			"Association",
+			"message",
+			"type",
+			"debug",
+			"Com",
+			"extended_ladders",
+			"ladders",
+			"page: @page",
+			"local",
+			"push",
+			"page: @page",
+			"responder",
+			"response",
+			"tur",
+			"schema_validations",
+			"schema",
+			"puts",
+			" \"",
+			"home/gitlab_ci",
+			"pidfile",
+			"pid",
+			"deploy:restart",
+			"restart",
+			"symlinks",
+			"pty",
+			"formtastic",
+			"log_lev",
+			"create",
+			"rm",
+			"close",
+			"compass",
+			"rspec",
+			"gems",
+			"factory",
+			"bundle_dir",
+			"puts",
+			"set_cur",
+			"set_current",
+			"'../",
+			"release",
+			"rake",
+			"update",
+			"repo",
+			"within",
+			"withni",
+			"clone",
+			"check",
+			"checks",
+			"raise",
+			"release_path",
+			"release",
+			"update",
+			"REVISION",
+			"updated",
+			"join",
+			"except",
+			"set",
+			"repository",
+			"tail",
+			"acts_as",
+			"nokogiri",
+			"doa",
+			"redmine",
+			"puts",
+			"team_name",
+			"def code",
+			"import_arrivals",
+			"puts",
+			"rspec-pro",
+			"scrypt",
+			"stam",
+			"rdiscount",
+			"i18n",
+			"enforce_available_locales",
+			"public",
+			":publ",
+			"--colour",
+			"valid",
+			"colou",
+			"box-flex",
+			"display-box",
+			"compas",
+			"stampable",
+			"schema",
+			"before_filter",
+			"creator",
+			"frien",
+			"sass",
+			"friendl",
+			"model",
+			"response",
+			"haml-rails",
+			"schema_validation",
+			"schema_valid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"before_action",
+			"textarea valueBinding=\"view.data\"",
+			"",
+			"input ",
+			"input",
+			"input type=\"checkbox\"",
+			"input",
+			"input \"text\"",
+			"PUZZLE",
+			"team_terrain_hint",
+			"try(:to_html).try(:html_safe)",
+			"",
+			";",
+			"",
+			"Visualizations",
+			"class ",
+			"module Stats\\n  module Vizualizations\\n    class",
+			"# caches_action",
+			"ciphers",
+			":ciphers",
+			"where('1 = 0')",
+			"user(:admin)",
+			"activerecord",
+			"activemodel",
+			"route_to(\"games/\\1#",
+			"describe Stats::\\1",
+			"describe Smsinfo::\\1",
+			"describe Games::\\1",
+			"describe Teams::",
+			"describe Smsinfo::",
+			"describe Stats::",
+			"describe Games::",
+			"describe Database::",
+			"require_relative '../../spec_helper'",
+			"< Teams::ApplicationController",
+			"< Database::ApplicationController",
+			"< Games::ApplicationController",
+			"< Stats::ApplicationController",
+			"< Smsinfo::ApplicationController",
+			" Smsinfo::ApplicationController",
+			"Smsinfo::ApplicationController",
+			"Teams::ApplicationController",
+			"Games::ApplicationController",
+			"Stats::ApplicationController",
+			"Database::ApplicationController",
+			"Games",
+			"Teams",
+			"module Games",
+			"module Teams"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spec/models/proc_model.rb",
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spec/models/table_model.rb",
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "spec/config.example.yml",
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "spec/config.rb",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "spec/schema.rb",
+					"settings":
+					{
+						"buffer_size": 1040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "spec/config.yml",
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 2748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2367,
+								2367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "lib/activerecord_postgresql_procedures/postgresql_adapter.rb",
+					"settings":
+					{
+						"buffer_size": 1696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "lib/activerecord_postgresql_procedures/schema_statements.rb",
+					"settings":
+					{
+						"buffer_size": 3042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"auto_name": "SELECT unnest(proargnames) FROM pg_proc WHERE pron",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "activerecord_postgresql_procedures.gemspec",
+					"settings":
+					{
+						"buffer_size": 1124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 133.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Rakefile",
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "README.rdoc",
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 276.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"proc",
+				"/home/tomas/code/activerecord_postgresql_procedures/spec/models/proc_model.rb"
+			],
+			[
+				"gemsp",
+				"/home/tomas/code/activerecord_postgresql_procedures/activerecord_postgresql_procedures.gemspec"
+			],
+			[
+				"sche",
+				"lib/activerecord_postgresql_procedures/schema_statements.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"arpp",
+				"/home/tomas/code/activerecord_postgresql_procedures/Gemfile"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"conad",
+				"lib/activerecord_postgresql_procedures/connection_adapters_ext.rb"
+			],
+			[
+				"arpost",
+				"lib/activerecord_postgresql_procedures.rb"
+			],
+			[
+				"sch",
+				"spec/schema.rb"
+			],
+			[
+				"spe",
+				"spec/spec_helper.rb"
+			],
+			[
+				"conadex",
+				"lib/activerecord_postgresql_procedures/connection_adapters_ext.rb"
+			],
+			[
+				"ac",
+				"lib/activerecord_postgresql_procedures.rb"
+			],
+			[
+				"acpopro",
+				"lib/activerecord_postgresql_procedures.rb"
+			],
+			[
+				"acposproce",
+				"activerecord_postgresql_procedures.gemspec"
+			],
+			[
+				"sphe",
+				"spec/spec_helper.rb"
+			],
+			[
+				"acreco",
+				"lib/activerecord_postgresql_procedures.rb"
+			],
+			[
+				"",
+				"spec/connection_adapters_ext_spec.rb"
+			],
+			[
+				"book",
+				"spec/book.rb"
+			],
+			[
+				"spec",
+				"spec/connection_adapters_ext_spec.rb"
+			],
+			[
+				"procedu",
+				"lib/activerecord_postgresql_procedures.rb"
+			],
+			[
+				"migra",
+				"spec/dummy/db/migrate/db/migrate/20141003210447_create_books.rb"
+			],
+			[
+				"ke",
+				"spec/dummy/app/models/.keep"
+			],
+			[
+				"aci",
+				"lib/activerecord_postgresql_procedures.rb"
+			],
+			[
+				"gua",
+				"Guardfile"
+			],
+			[
+				"foo",
+				"spec/foobar_spec.rb"
+			],
+			[
+				"speh",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"ver",
+				"lib/activerecord_postgresql_procedures/version.rb"
+			],
+			[
+				"exterank",
+				"app/models/procedures/expected_rank.rb"
+			],
+			[
+				"table",
+				"lib/tableless.rb"
+			],
+			[
+				"memseri",
+				"app/serializers/membership_serializer.rb"
+			],
+			[
+				"memserializer",
+				"app/serializers/membership_serializer.rb"
+			],
+			[
+				"userseri",
+				"app/serializers/user_serializer.rb"
+			],
+			[
+				"conde",
+				"config/environments/development.rb"
+			],
+			[
+				"conlogg",
+				"config/initializers/logger.rb"
+			],
+			[
+				"idesescon",
+				"app/controllers/stats/identification_sessions_controller.rb"
+			],
+			[
+				"idesenew",
+				"gems/authentication/app/views/authentication/identification_sessions/new.html.erb"
+			],
+			[
+				"iden",
+				"gems/authentication/app/models/authentication/identification.rb"
+			],
+			[
+				"auidesefo",
+				"gems/authentication/app/views/authentication/identification_sessions/_form.html.haml"
+			],
+			[
+				"staidesecon",
+				"app/controllers/stats/identification_sessions_controller.rb"
+			],
+			[
+				"conlog",
+				"config/initializers/logger.rb"
+			],
+			[
+				"apmoauide",
+				"gems/authentication/app/models/authentication/identification.rb"
+			],
+			[
+				"starou",
+				"config/routes/stats_routes.rb"
+			],
+			[
+				"gamerou",
+				"config/routes/games_routes.rb"
+			],
+			[
+				"gemwikimo",
+				"gems/wiki/app/models/wiki/page.rb"
+			],
+			[
+				"page_conten",
+				"gems/wiki/spec/models/page_content_spec.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"ide",
+				"gems/authentication/app/models/authentication/identification.rb"
+			],
+			[
+				"auiden",
+				"gems/authentication/app/models/authentication/identification.rb"
+			],
+			[
+				"condepl",
+				"config/deploy.rb"
+			],
+			[
+				"tablle",
+				"lib/tableless.rb"
+			],
+			[
+				"expe",
+				"app/models/procedures/expected_rank.rb"
+			],
+			[
+				"rank",
+				"app/models/procedures/ranking.rb"
+			],
+			[
+				"exp",
+				"app/models/procedures/expected_rank.rb"
+			],
+			[
+				"tabl",
+				"lib/tableless.rb"
+			],
+			[
+				"exran",
+				"app/models/procedures/expected_rank.rb"
+			],
+			[
+				"prorank",
+				"app/models/procedures/ranking.rb"
+			],
+			[
+				"stratab",
+				"app/views/stats/rankings/_table.html.haml"
+			],
+			[
+				"proex",
+				"app/models/procedures/expected_rank.rb"
+			],
+			[
+				"tablles",
+				"lib/tableless.rb"
+			],
+			[
+				"modelproex",
+				"app/models/procedures/expected_rank.rb"
+			],
+			[
+				"logger",
+				"config/initializers/logger.rb"
+			],
+			[
+				"proexp",
+				"app/models/procedures/expected_rank.rb"
+			],
+			[
+				"litabl",
+				"lib/tableless.rb"
+			],
+			[
+				"condep",
+				"config/deploy.rb"
+			],
+			[
+				"log",
+				"config/initializers/logger.rb"
+			],
+			[
+				"dbviewexp",
+				"db/views/013-expected-ranks.sql"
+			],
+			[
+				"depl",
+				"config/deploy.rb"
+			],
+			[
+				"pars",
+				"lib/tasks/parsers.rake"
+			],
+			[
+				"deplrak",
+				"lib/capistrano/tasks/deploy.rake"
+			],
+			[
+				"strata",
+				"app/views/stats/rankings/_table.html.haml"
+			],
+			[
+				"stranta",
+				"app/views/stats/rankings/_table.html.haml"
+			],
+			[
+				"wikipagcon",
+				"gems/wiki/app/views/wiki/pages/_content.html.erb"
+			],
+			[
+				"conunipro",
+				"config/unicorn/production.rb"
+			],
+			[
+				"cap",
+				"Capfile"
+			],
+			[
+				"conprun",
+				"config/unicorn/production.rb"
+			],
+			[
+				"dateinput",
+				"app/inputs/date_input.rb"
+			],
+			[
+				"idesessfor",
+				"gems/authentication/app/views/authentication/identification_sessions/_form.html.haml"
+			],
+			[
+				"rescufrom",
+				"lib/rescue_from_common_exceptions.rb"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			],
+			[
+				"prodrb",
+				"config/deploy/production.rb"
+			],
+			[
+				"_form",
+				"app/assets/stylesheets/database/_forms.css.sass"
+			],
+			[
+				"git",
+				"lib/capistrano/strategy/github.rb"
+			],
+			[
+				"github",
+				"lib/capistrano/strategy/github.rb"
+			],
+			[
+				"speche",
+				"spec/spec_helper.rb"
+			],
+			[
+				"ca",
+				"Capfile"
+			],
+			[
+				"gith",
+				"lib/capistrano/strategy/github.rb"
+			],
+			[
+				"gitrake",
+				"lib/capistrano/tasks/git.rake"
+			],
+			[
+				"githu",
+				"lib/capistrano/strategy/github.rb"
+			],
+			[
+				"gitrb",
+				"lib/capistrano/strategy/git.rb"
+			],
+			[
+				"git_sty",
+				"lib/capistrano/tasks/strategy/git_style.rb"
+			],
+			[
+				"de",
+				"config/deploy.rb"
+			],
+			[
+				"capfi",
+				"Capfile"
+			],
+			[
+				"condepro",
+				"config/deploy/production.rb"
+			],
+			[
+				"libcagit",
+				"lib/capistrano/tasks/git.rb"
+			],
+			[
+				"acasasmarkgem",
+				"gems/acts_as_markup/acts_as_markup.gemspec"
+			],
+			[
+				"gemacts_asmak",
+				"gems/acts_as_markup/acts_as_markup.gemspec"
+			],
+			[
+				"conapp",
+				"config/application.rb"
+			],
+			[
+				"speop",
+				"spec/spec.opts"
+			],
+			[
+				"insch",
+				"config/initializers/silent_schema_validations.rb"
+			],
+			[
+				"conini",
+				"config/initializers/inflections.rb"
+			],
+			[
+				"guardfi",
+				"Guardfile"
+			],
+			[
+				"spespehe",
+				"spec/spec_helper.rb"
+			],
+			[
+				"conenpro",
+				"config/environments/production.rb"
+			],
+			[
+				"auliap",
+				"gems/authentication/lib/application_controller.rb"
+			],
+			[
+				"conap",
+				"config/application.rb"
+			],
+			[
+				"aulibapp",
+				"gems/authentication/lib/application_controller.rb"
+			],
+			[
+				"acascomtopic",
+				"gems/acts_as_commentable/app/models/acts_as_commentable/topic.rb"
+			],
+			[
+				"acascomfor",
+				"gems/acts_as_commentable/app/models/acts_as_commentable/forum.rb"
+			],
+			[
+				"actsascomcom",
+				"gems/acts_as_commentable/app/models/acts_as_commentable/comment.rb"
+			],
+			[
+				"gemacts_as_com",
+				"gems/acts_as_commentable/Gemfile"
+			],
+			[
+				"coninsche",
+				"config/initializers/silent_schema_validations.rb"
+			],
+			[
+				"dagamecon",
+				"app/controllers/database/games_controller.rb"
+			],
+			[
+				"moari",
+				"app/models/arrival.rb"
+			],
+			[
+				"specmodarr",
+				"spec/models/team_terrain_hint_spec.rb"
+			],
+			[
+				"gemlo",
+				"Gemfile.lock"
+			],
+			[
+				"libcreaman",
+				"lib/active_model_create_many.rb"
+			],
+			[
+				"gameseria",
+				"app/serializers/database/games/game_serializer.rb"
+			],
+			[
+				"puzzleseri",
+				"app/serializers/database/puzzles/puzzle_serializer.rb"
+			],
+			[
+				"puzzleseria",
+				"app/serializers/puzzle_serializer.rb"
+			],
+			[
+				"connecon",
+				"app/controllers/database/connections_controller.rb"
+			],
+			[
+				"solusho",
+				"app/serializers/solution_short_serializer.rb"
+			],
+			[
+				"datalocaseri",
+				"app/serializers/database/locations/location_serializer.rb"
+			],
+			[
+				"puzzlseri",
+				"app/serializers/database/puzzles/puzzle_serializer.rb"
+			],
+			[
+				"puzleseria",
+				"app/serializers/puzzle_serializer.rb"
+			],
+			[
+				"puz",
+				"app/serializers/puzzle_serializer.rb"
+			],
+			[
+				"notivi",
+				"app/assets/javascripts/database/views/notification_view.js.coffee"
+			],
+			[
+				"notific",
+				"app/assets/javascripts/database/templates/notification.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"ses",
+				"/home/tomas/code/seslost/seslost.sublime-project"
+			],
+			[
+				"ac",
+				"/home/tomas/code/seslost/app/controllers/stats/activerecord-postgresql-procedures.sublime-project"
+			],
+			[
+				"clas",
+				"/home/tomas/code/classification/classification.sublime-project"
+			],
+			[
+				"se",
+				"/home/tomas/code/seslost/seslost.sublime-project"
+			],
+			[
+				"da",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"ad",
+				"/home/tomas/code/active-admin.sublime-project"
+			],
+			[
+				"data",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"cl",
+				"/home/tomas/code/classification/classification.sublime-project"
+			],
+			[
+				"cla",
+				"/home/tomas/code/classification/classification.sublime-project"
+			],
+			[
+				"bicli",
+				"/home/tomas/code/bigbow/app/bigbow-client.sublime-project"
+			],
+			[
+				"bigcli",
+				"/home/tomas/code/bigbow/app/bigbow-client.sublime-project"
+			],
+			[
+				"bigi",
+				"/home/tomas/code/bigbow/bigbowsublime-project"
+			],
+			[
+				"scra",
+				"/home/tomas/code/bigbow-stream/www/bigbow-stream.sublime-project"
+			],
+			[
+				"d3p",
+				"/home/tomas/code/d3p/d3p.sublime-project"
+			],
+			[
+				"em",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"emb",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"ember",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"sda",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"dat",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"cli",
+				"/home/tomas/code/bigbow/app/bigbow-client.sublime-project"
+			],
+			[
+				"web",
+				"/home/tomas/code/bigbow/webapp.sublime-workspace"
+			],
+			[
+				"bigbo",
+				"/home/tomas/code/bigbow/bigbow.sublime-project"
+			],
+			[
+				"bigo",
+				"/home/tomas/code/bigbow/bigbow.sublime-project"
+			],
+			[
+				"d3",
+				"/home/tomas/code/d3p/d3p.sublime-project"
+			],
+			[
+				"c se",
+				"/home/tomas/code/seslost/seslost.sublime-project"
+			],
+			[
+				"big",
+				"/home/tomas/code/bigbow/bigbow.sublime-project"
+			],
+			[
+				"sms",
+				"/home/tomas/code/smsinfo/smsinfo.sublime-project"
+			],
+			[
+				"ssm",
+				"/home/tomas/code/smsinfo/smsinfo.sublime-project"
+			],
+			[
+				"we",
+				"/home/tomas/code/bigbow/webapp.sublime-workspace"
+			],
+			[
+				"wep",
+				"/home/tomas/code/bigbow/webapp.sublime-workspace"
+			],
+			[
+				"a",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"webapp",
+				"/home/tomas/code/bigbow/bigbow-web/bigbow-web/src/main/webapp/bigbow-web.sublime-project"
+			],
+			[
+				"bi",
+				"/home/tomas/code/bigbow/bigbow-web/bigbow.sublime-project"
+			],
+			[
+				"biwe",
+				"/home/tomas/code/bigbow/bigbow-web/bigbow-web/src/main/webapp/app/bigbow-web.sublime-project"
+			],
+			[
+				"bigwe",
+				"/home/tomas/code/bigbow/bigbow-web/bigbow-web/src/main/webapp/bigbow-web.sublime-project"
+			],
+			[
+				"ba",
+				"/home/tomas/code/backup/lib/backup/backup.sublime-project"
+			],
+			[
+				"3p",
+				"/home/tomas/code/d3p/D3P.sublime-project"
+			],
+			[
+				"3",
+				"/home/tomas/code/d3p/D3P.sublime-project"
+			],
+			[
+				"daa",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"embefor",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"emer",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"embe",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"3dp",
+				"/home/tomas/code/d3p/D3P.sublime-project"
+			],
+			[
+				"sc",
+				"/home/tomas/code/scrabble/scrabble.sublime-project"
+			],
+			[
+				"see",
+				"/home/tomas/code/seslost/seslost.sublime-project"
+			],
+			[
+				"",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"sto",
+				"/home/tomas/code/bigbow/google-storage-api-samples/storage.sublime-project"
+			],
+			[
+				"sub",
+				"/home/tomas/code/seslost/seslost.sublime-project"
+			],
+			[
+				"bigbow",
+				"/home/tomas/code/bigbow/bigbow-web/bigbow.sublime-project"
+			],
+			[
+				"d",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"form",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"for",
+				"/home/tomas/code/ember-forms/ember-forms.sublime-project"
+			],
+			[
+				"sesda",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"dta",
+				"/home/tomas/code/seslost/database.sublime-project"
+			],
+			[
+				"dp",
+				"/home/tomas/code/d3p/D3P.sublime-project"
+			],
+			[
+				"cl	",
+				"/home/tomas/code/classification/classification.sublime-project"
+			],
+			[
+				"scr",
+				"/home/tomas/code/scrabble/scrabble.sublime-project"
+			],
+			[
+				"scrab",
+				"/home/tomas/code/scrabble/scrabble.sublime-project"
+			],
+			[
+				"sesl",
+				"/home/tomas/code/seslost/seslost.sublime-project"
+			],
+			[
+				"sr",
+				"/home/tomas/code/scrabble/scrabble.sublime-project"
+			],
+			[
+				"redm",
+				"/home/tomas/code/redmine/redmine.sublime-project"
+			],
+			[
+				"subli",
+				"/home/tomas/.config/sublime-text-2/Packages/sublime.sublime-project"
+			],
+			[
+				"su",
+				"/home/tomas/.config/sublime-text-2/Packages/sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true
+}

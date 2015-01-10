@@ -1,0 +1,9 @@
+default_connection: 'postgresql'
+
+connections:
+  postgresql:
+    adapter: postgresql
+    encoding: unicode
+    database: arpp_test
+    pool: 5
+    password:
